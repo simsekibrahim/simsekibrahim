@@ -5,7 +5,7 @@
 
 
 <p align="center">
- <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250px">
+ <img src="https://i.gifer.com/SUV4.gif" width="250px">
 </p>
 
 <p align="center">
