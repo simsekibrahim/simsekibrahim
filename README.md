@@ -9,21 +9,21 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=82F73B&center=true&vCenter=true&width=435&lines=Hello+I'm+ibrahim+simsek;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=212F3C&center=true&vCenter=true&width=435&lines=Hello+I'm+ibrahim+simsek;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
 </p>
 
 
 <h2 align="left"> 
 Hi there
-<a href="https://github.com/simsekibrahim/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<a href="#" width="5%"></a>
 </h2>
 
 - 🔭 I'm interested in <strong> Artificial Intelligence </strong> and <strong> Data Science.</strong>
 - 🌱 I love <strong> research </strong> and <strong> development.</strong>
 - 🤔 I am currently looking for a  <strong> job. </strong>
 - 💬 Ask me about anything.
-- 📫 How to reach me: ibrahimsimsek41@gmail.com
-- 🌍 I'm based in <strong> Turkey.</strong>
+- 📫 How to reach me: ibrahimsimsek41@gmail.com / ibrahimsimsek@hotmail.com
+- 🌍 I'm based in <strong> Turkiye.</strong>
 
 <a href="https://www.linkedin.com/in/simsekibrahim/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> 
 <a href="https://www.hackerrank.com/zorexq" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a> 
