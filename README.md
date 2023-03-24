@@ -1,9 +1,8 @@
 <!--
 **simsekibrahim/simsekibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
 <p align="center">
- <img src="https://github.com/muhsinayaz/muhsinayaz/blob/main/tal.gif" width="250px">
+ <img src="#https://github.com/muhsinayaz/muhsinayaz/blob/main/tal.gif" width="250px">
 </p>
 
 <!--
