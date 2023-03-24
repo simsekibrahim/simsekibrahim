@@ -12,14 +12,8 @@
 </p>
 -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=82F73B&center=true&vCenter=true&width=435&lines=Hello+I'm+ibrahim+simsek;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=012133&center=true&vCenter=true&width=435&lines=Hello+I'm+ibrahim+simsek;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
 </p>
-
-
-<h2 align="left"> 
-Hi there
-<a href="https://github.com/simsekibrahim/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-</h2>
 
 - 🔭 I'm interested in <strong> Artificial Intelligence </strong> and <strong> Data Science.</strong>
 - 🌱 I love <strong> research </strong> and <strong> development.</strong>
@@ -31,7 +25,7 @@ Hi there
 <a href="https://www.linkedin.com/in/simsekibrahim" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> 
 <a href="https://www.hackerrank.com/zorexq" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a> 
 <a href="https://public.tableau.com/app/profile/simsekibrahim" target="_blank"><img src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a> 
-<a href="https://www.kaggle.com/mhsnayz" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> 
+<a href="#https://www.kaggle.com/mhsnayz" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 
 ![Snake animation](https://github.com/simsekibrahim/simsekibrahim/blob/output/github-contribution-grid-snake-dark.svg)
