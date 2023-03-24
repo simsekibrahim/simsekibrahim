@@ -33,7 +33,7 @@
 <a href="#https://www.kaggle.com/mhsnayz" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 
-![Snake animation](https://github.com/simsekibrahim/simsekibrahim/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/simsekibrahim/simsek/blob/output/github-contribution-grid-snake-dark.svg)
 <br><sup>_generated with [Platane/snk](https://github.com/Platane/snk)_ </sup>
 
 ### ✨ Python Libraries
