@@ -3,7 +3,7 @@
 
 
 <p align="center">
- <img src="https://github.com/simsekibrahim/simsekibrahim/blob/main/tal.gif" width="250px">
+ <img src="https://github.com/muhsinayaz/muhsinayaz/blob/main/tal.gif" width="250px">
 </p>
 
 <!--
@@ -12,8 +12,13 @@
 </p>
 -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=012133&center=true&vCenter=true&width=435&lines=Hello+I'm+ibrahim+simsek;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=263e73&center=true&vCenter=true&width=435&lines=Hello+I'm+Ibrahim+Simsek;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
 </p>
+
+
+<h2 align="left"> 
+<a href="https://github.com/muhsinayaz/"><img src="#https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+</h2>
 
 - 🔭 I'm interested in <strong> Artificial Intelligence </strong> and <strong> Data Science.</strong>
 - 🌱 I love <strong> research </strong> and <strong> development.</strong>
