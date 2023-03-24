@@ -13,8 +13,7 @@
 </p>
 
 
-<h2 align="left"> 
-Hi there
+<h2 align="left">
 <a href="#" width="5%"></a>
 </h2>
 
