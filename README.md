@@ -27,7 +27,7 @@
 - 🌍 I'm based in <strong> Turkiye.</strong>
 
 <a href="https://www.linkedin.com/in/simsekibrahim" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> 
-<a href="https://www.hackerrank.com/zorexq" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a> 
+<a href="#https://www.hackerrank.com/zorexq" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a> 
 <a href="https://public.tableau.com/app/profile/simsekibrahim" target="_blank"><img src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a> 
 <a href="#https://www.kaggle.com/mhsnayz" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
